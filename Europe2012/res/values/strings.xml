@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Europe2012</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="country">
+        <item>Russian</item>
+        <item>Poland</item>
+        <item>Greece</item>
+        <item>Czech</item>
+        <item>Netherlands</item>
+        <item>Germany</item>
+        <item>Portugal</item>
+        <item>Denmark</item>
+        <item>Spain</item>
+        <item>Italy</item>
+        <item>Ireland</item>
+        <item>Croatia</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Sweden</item>
+        <item>Ukraine</item>
+    </string-array>
+
+</resources>
